@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Section1_HW4_ShaneGhuste</string>
+    <string name="cs481_hw4_n_shane_ghuste">CS481 HW4"\n" Shane Ghuste</string>
+    <string name="api">API</string>
+    <string name="permission">Permission</string>
+    <string name="library">Library</string>
+    <string name="api_call">API Call: Tap Below for New Fact </string>
+    <string name="back">Back</string>
+    <string name="camera">Camera</string>
+</resources>
